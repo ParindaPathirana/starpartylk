@@ -7357,11 +7357,11 @@
 }
 
 .jki-jeg-kit-logo:before {
-  content: "\f030";
+	content: "\f030";
 }
 
 .jki-jeg-kit-logo-solid:before {
-  content: "\f031";
+	content: "\f031";
 }
 
 .jki-home-light::before {
